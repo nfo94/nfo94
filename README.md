@@ -1,4 +1,4 @@
-![wood-g8a5dad99e_1920](https://user-images.githubusercontent.com/24434214/168197792-d9ffbbe3-b3e6-471f-a1f2-659bdfe62e8e.jpg)
+![wood hero banner](https://user-images.githubusercontent.com/24434214/168197792-d9ffbbe3-b3e6-471f-a1f2-659bdfe62e8e.jpg)
 ### Hi there! I'm Natália Oliveira
 
 - I'm a former law student, now a software developer
