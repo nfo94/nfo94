@@ -6,4 +6,5 @@
 - You can find me on [LinkedIn](https://www.linkedin.com/in/nataliaferreiraoliveira/)
 - I did some stuff back in the day on [codepen](https://codepen.io/nfo94)
 - I like art, philosophy and games
+- Here's my [Hackerrank profile](https://www.hackerrank.com/nfo94?hr_r=1)
 - Pronouns: she/her
